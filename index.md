@@ -1,3 +1,9 @@
-# Cats
+# Code Block
 
-![Image of DaftCat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
+```
+$ echo 'waiting for the munchkin' > waiting.txt
+```
+
+``` python
+my_variable = 10
+```
