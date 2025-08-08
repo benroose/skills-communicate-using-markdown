@@ -1,6 +1,3 @@
-# Testing H1
-## Testing H2
-### Testing H3
-#### Testing H4
-##### Testing H5
-###### Testing H6
+# Cats
+
+![Image of DaftCat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
